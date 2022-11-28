@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Miki0110
-- 👀 I hate in https://github.com/gsvend20
+- 👀 I hate https://github.com/gsvend20
 - 🌱 I’m currently learning everything
 
 <!---
