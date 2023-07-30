@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Miki0110
-- 👀 Wow that's rude
+- 👀 ..yup
 - 🌱 I’m currently learning everything
 
 <!---
